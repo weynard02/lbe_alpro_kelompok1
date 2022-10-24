@@ -2,5 +2,5 @@
 
 ## Nama Anggota
 
-Nama: Alexander Weynard Samsico
+Nama: Alexander Weynard Samsico\
 NRP: 5025211014
