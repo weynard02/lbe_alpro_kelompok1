@@ -10,3 +10,6 @@ NRP   : 5025211003
 
 Nama  : Mashita Dewi\
 NRP   : 5025211036
+
+Nama  : Sandhika Surya Ardyanto
+NRP   : 5025211022
